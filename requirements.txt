@@ -1,0 +1,7 @@
+einops==0.8.0
+matplotlib==3.9.2
+numpy==1.26.0
+pandas==2.2.3
+scikit-learn==1.5.2
+torch==2.0.1
+transformers
